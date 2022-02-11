@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-31T09:11:52 EST" name="adhoc" finished-at="2022-01-31T09:12:39 EST" duration-ms="46559">
+  <suite started-at="2022-02-02T14:53:23 EST" name="adhoc" finished-at="2022-02-02T14:54:05 EST" duration-ms="42029">
     <groups>
     </groups>
-    <test started-at="2022-01-31T09:11:52 EST" name="RegressionofChrome" finished-at="2022-01-31T09:12:18 EST" duration-ms="25524">
+    <test started-at="2022-02-02T14:53:23 EST" name="RegressionofChrome" finished-at="2022-02-02T14:53:46 EST" duration-ms="23042">
       <class name="projectd.amazon.amazontest">
-        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String)[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-01-31T09:11:52 EST" name="beforeMethod" finished-at="2022-01-31T09:12:00 EST" duration-ms="8175" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String)[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-02-02T14:53:23 EST" name="beforeMethod" finished-at="2022-02-02T14:53:27 EST" duration-ms="4080" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,19 +23,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-01-31T09:12:00 EST" name="f" finished-at="2022-01-31T09:12:14 EST" duration-ms="13180" status="PASS">
+        <test-method signature="f()[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-02-02T14:53:27 EST" name="f" finished-at="2022-02-02T14:53:42 EST" duration-ms="14800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-01-31T09:12:14 EST" name="afterMethod" finished-at="2022-01-31T09:12:18 EST" duration-ms="4134" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:projectd.amazon.amazontest@22e357dc]" started-at="2022-02-02T14:53:42 EST" name="afterMethod" finished-at="2022-02-02T14:53:46 EST" duration-ms="4133" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
       </class> <!-- projectd.amazon.amazontest -->
     </test> <!-- RegressionofChrome -->
-    <test started-at="2022-01-31T09:12:18 EST" name="RegressionofEdge" finished-at="2022-01-31T09:12:39 EST" duration-ms="20964">
+    <test started-at="2022-02-02T14:53:46 EST" name="RegressionofEdge" finished-at="2022-02-02T14:54:05 EST" duration-ms="18928">
       <class name="projectd.amazon.amazontest">
-        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String)[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-01-31T09:12:18 EST" name="beforeMethod" finished-at="2022-01-31T09:12:21 EST" duration-ms="3297" status="PASS">
+        <test-method is-config="true" signature="beforeMethod(java.lang.String,java.lang.String)[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-02-02T14:53:46 EST" name="beforeMethod" finished-at="2022-02-02T14:53:51 EST" duration-ms="4668" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,11 +51,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="f()[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-01-31T09:12:21 EST" name="f" finished-at="2022-01-31T09:12:35 EST" duration-ms="13537" status="PASS">
+        <test-method signature="f()[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-02-02T14:53:51 EST" name="f" finished-at="2022-02-02T14:54:05 EST" duration-ms="14117" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-01-31T09:12:35 EST" name="afterMethod" finished-at="2022-01-31T09:12:39 EST" duration-ms="4129" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:projectd.amazon.amazontest@5ba3f27a]" started-at="2022-02-02T14:54:05 EST" name="afterMethod" finished-at="2022-02-02T14:54:05 EST" duration-ms="142" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
